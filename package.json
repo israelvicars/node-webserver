@@ -1,0 +1,25 @@
+{
+  "name": "pubsub-node",
+  "version": "0.0.0",
+  "description": "node.js pub sub server",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/israelvicars/node-webserver.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/israelvicars/node-webserver/issues"
+  },
+  "homepage": "https://github.com/israelvicars/node-webserver#readme",
+  "dependencies": {
+    "axon": "^2.0.0",
+    "express": "^3.0.0",
+    "redis": "^0.10.1",
+    "underscore": "^1.6.0"
+  }
+}
