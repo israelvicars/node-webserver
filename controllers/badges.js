@@ -12,5 +12,5 @@ exports.save = function(req, res, next) {
 };
 
 exports.send = function() {
-
+	next();
 };
